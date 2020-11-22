@@ -24,6 +24,11 @@
         "name": "Forno Elétrico",
         "price": "913.99",
         "id": 4
+    },
+    {
+        "name": "Máquina de Lavar",
+        "price": "1300.99",
+        "id": 4
       }
   ]
 }
