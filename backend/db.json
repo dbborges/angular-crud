@@ -1,11 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 5.89
-    },
-    {
       "id": 2,
       "name": "Notebook Mac Pro",
       "price": 12000.89
@@ -21,14 +16,19 @@
       "id": 4
     },
     {
-        "name": "Forno Elétrico",
-        "price": "913.99",
-        "id": 4
+      "name": "Forno Elétrico",
+      "price": "913.99",
+      "id": 4
     },
     {
-        "name": "Máquina de Lavar",
-        "price": "1300.99",
-        "id": 4
-      }
+      "name": "Máquina de Lavar",
+      "price": "1300.99",
+      "id": 4
+    },
+    {
+      "name": "Veio do formulário",
+      "price": "9.99",
+      "id": 5
+    }
   ]
 }
